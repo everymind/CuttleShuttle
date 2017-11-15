@@ -1,2 +1,2 @@
-# SurprisingMinds
-content for Surprising Minds pages on EveryMind.online website
+# Cuttle Shuttle
+Content for Cuttle Shuttle project pages on EveryMind.online website
