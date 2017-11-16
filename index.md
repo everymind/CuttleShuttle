@@ -53,7 +53,8 @@ Interested in discussing the premises and hypotheses underlying this project? We
 
 - Why do cuttlefish make the "tentacle shot pattern"?
 - How much can we read about the cuttlefish nervous system just by looking at their skin, given the tight coupling between neurons and chromatophores?
-- What is a brain? What is a nervous system? How do we know when they are intelligent, or at least acting intelligently?
+- What is a brain? What is a nervous system? 
+- How do we know when they are intelligent, or at least acting intelligently?
 - How do cuttlefish see?
 
 If you have any other questions you want to talk about, or if you have other ideas for understanding this dataset, [I would love to hear from you!](mailto:danbee@alum.mit.edu)
