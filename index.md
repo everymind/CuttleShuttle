@@ -4,8 +4,6 @@ author_profile: Danbee Kim
 header:
   image: /assets/images/Cuttles.png
 excerpt: "From February 2014 to February 2015, I collaborated with the Marine Biology Lab at Woods Hole, USA, to study cuttlefish, an invertebrate marine animal related to octopus and squid, from the perspective of neuroscience. My primary goal was to learn about their behaviour, how to take care of them, and how to modify our lab’s behaviour experiment setups for rats to work with cuttlefish."
-sidebar:  
-  nav: docs
 tags:
   - Cuttle Shuttle
   - projects
@@ -15,6 +13,10 @@ gallery:
     image_path: /assets/images/CFLogo-notext-CMYK.png
     alt: "Champalimaud Centre for the Unknown, Portugal"
     title: "Champalimaud Centre for the Unknown, Portugal"
+  - url: http://www.kampff-lab.org/
+    image_path: /assets/images/KampffLab-logo.png
+    alt: "Intelligent Systems Lab"
+    title: "Intelligent Systems Lab" 
   - url: http://www.mbl.edu/
     image_path: /assets/images/MBL_logo.jpg
     alt: "Marine Biological Laboratory, USA"
