@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Surprising Minds"
+title                    : "Cuttle Shuttle"
 title_separator          : "|"
-name                     : "Surprising Minds"
-description              : "Surprising Minds is an exhibit at the Sea Life Centre in Brighton, UK, which explores a new way to ask scientific questions about behaviour and the mind 'in the wild'."
+name                     : "Cuttle Shuttle"
+description              : "The Cuttle Shuttle is an exploratory behavioural experiment during which I learned more about cuttlefish hunting behaviour."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : everymindonline
+  username               : taunbot
 facebook:
   username               : every.mind.online
   app_id                 :
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : Every Mind Online
-  avatar           : "/assets/images/20170315_LondonArt_small.png"
-  bio              : "An online community for people interested in collaborating across fields to better study how brains understand the world."
+  name             : Danbee Kim
+  avatar           : "/assets/images/DanbeeKim.jpg"
+  bio              : "I’m a comparative neuroscientist looking for general principles of intelligence. To do this I study both cuttlefish and human behavior, especially in the face of the unexpected."
   location         : "the world"
   email            : "everymind@protonmail.com"
   uri              : "http://www.everymind.online"
