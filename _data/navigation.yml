@@ -1,16 +1,12 @@
 # main links
 main:
-  - title: "Surprising Minds"
+  - title: "Cuttle Shuttle"
     url: /
-  - title: "Project Blog"
-    url: /categories/
-  - title: "Dataset"
-    url: /dataset/
-  - title: "Gallery"
-    url: https://www.instagram.com/explore/tags/surprisingminds/
+  - title: "Analysis"
+    url: https://github.com/everymind/CuttleShuttle-Analysis
 
 # project documentation
-docs: 
+# docs: 
 #  - title: "Introduction"
 #    url: / 
 #    children:
@@ -28,14 +24,7 @@ docs:
 #      - title: "The Software"
 #        url: /Software/
 #        
-  - title: "Phase 1: Summer Prototype"
-    children: 
-      - title: "Daily Reports"
-        url: /categories/#daily-report
-      - title: "Summary of Summer Prototype"
-        url: /documentation/summary-of-summer-prototype/
-      - title: "Other documentation"
-        url: /categories/#documentation
+
         
         
 
