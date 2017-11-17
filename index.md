@@ -39,7 +39,7 @@ Many thanks to Kendra Buresch, Stephen Senft, Alex Schnell, Andrew Carvey, Arthu
 
 Visit [my online open lab notebook](http://www.danbeekim.org/open-lab-notebook/) to see [my on-going documentation of the Cuttle Shuttle project](http://www.danbeekim.org/open-lab-notebook/cuttlefish-hunting-behavior/). 
 
-The software used to run the experiment can be found in ????. 
+The software used to run the experiment can be found [here](https://github.com/everymind/CuttleShuttle/tree/gh-pages/experiment). 
 
 Documentation of the analysis work on the Cuttle Shuttle dataset can be found in [the Cuttle Shuttle Analysis github repository](https://github.com/everymind/CuttleShuttle-Analysis).
 
