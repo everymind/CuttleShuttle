@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Surprising Minds"
+title                    : "Cuttle Shuttle"
 title_separator          : "|"
-name                     : "Surprising Minds"
-description              : "Surprising Minds is an exhibit at the Sea Life Centre in Brighton, UK, which explores a new way to ask scientific questions about behaviour and the mind 'in the wild'."
+name                     : "Cuttle Shuttle"
+description              : "From February 2014 to February 2015, Danbee Kim collaborated with the Marine Biology Lab at Woods Hole, USA, to study cuttlefish, an invertebrate marine animal related to octopus and squid, from the perspective of neuroscience. My primary goal was to learn about their behaviour, how to take care of them, and how to modify our lab’s behaviour experiment setups for rats to work with cuttlefish."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : everymindonline
+  username               : taunbot
 facebook:
   username               : every.mind.online
   app_id                 :
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : Every Mind Online
-  avatar           : "/assets/images/20170315_LondonArt_small.png"
-  bio              : "An online community for people interested in collaborating across fields to better study how brains understand the world."
+  name             : Danbee Kim
+  avatar           : "/assets/images/DanbeeKim.jpg"
+  bio              : "I’m a comparative neuroscientist looking for general principles of intelligence. To do this I study both cuttlefish and human behavior, especially in the face of the unexpected."
   location         : "the world"
-  email            : "everymind@protonmail.com"
-  uri              : "http://www.everymind.online"
+  email            : "danbee@alum.mit.edu"
+  uri              : "http://www.danbeekim.org"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "everymindonline"
+  twitter          : "taunbot"
   vine             :
   weibo            :
   xing             :
