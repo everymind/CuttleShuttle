@@ -21,10 +21,6 @@ gallery:
     image_path: /assets/images/MBL_logo.jpg
     alt: "Marine Biological Laboratory, USA"
     title: "Marine Biological Laboratory, USA"
-  - url: https://www.whoi.edu/
-    image_path: /assets/images/WoodsHole_LogoBlueTrans.png
-    alt: "Woods Hole Oceanographic Institute, USA"
-    title: "Woods Hole Oceanographic Institute, USA"
 ---
 
 {% include toc icon="anchor" title="Cuttle Shuttle" %}
