@@ -61,6 +61,8 @@ We want to hear your thoughts on the following questions:
 - How do we know when something is intelligent, or at least acting intelligently?
 - How do cuttlefish see?
 
+Please post your thoughts in our [Gitter chat room](https://gitter.im/CuttleShuttle/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)!
+
 ## Acknowledgements
 
 Project contributors are listed with the university/institute affiliations they held at the time of data collection on this project (February 2014 thru February 2015). 
