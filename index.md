@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: Danbee Kim
+comments: true
 header:
   image: /assets/images/Cuttles.png
 excerpt: "From February 2014 to February 2015, I collaborated with the Marine Biology Lab at Woods Hole, USA, to study cuttlefish, an invertebrate marine animal related to octopus and squid, from the perspective of neuroscience. My primary goal was to learn about their behaviour, how to take care of them, and how to modify our lab’s behaviour experiment setups for rats to work with cuttlefish."
