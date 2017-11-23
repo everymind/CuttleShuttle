@@ -43,21 +43,23 @@ Documentation of the analysis work on the Cuttle Shuttle dataset can be found in
 
 ## Want to get involved?
 
-Interested in helping us analyze the videos in the Cuttle Shuttle dataset? 
+If so, head on over to our [Gitter chat room](https://gitter.im/CuttleShuttle/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) to share your comments, questions, and other feedback! You can also contribute to the project in the following ways: 
+
+### Help us analyze the Cuttle Shuttle video dataset
 
 - Help us annotate the videos! We want to mark several "moments-of-interest", such as body pattern changes in response to the prey, tentacle shots, tentacle "peeks", and moments of [deimatic behaviour](https://en.wikipedia.org/wiki/Deimatic_behaviour). We also want to mark the location of the cuttlefish in order to help computers learn how to detect cuttlefish in the face of camouflage behaviour. 
 - Interested in teaching a computer how to detect camouflaging animals? Use our annotated dataset to train or test your machine learning algorithm, python OpenCV code, or Bonsai workflow, then share your results!
-- Are you a field scientist or avid marine filmographer? Share your videos of cuttlefish in the wild to help us validate our laboratory findings!
+- Are you a field scientist or avid marine filmographer? If you have videos of cuttlefish in the wild that you would like to share, or if you would like to get in touch about conducting field neuroscience, [please email me](mailto:danbee@alum.mit.edu)! 
 
-Interested in discussing the premises and hypotheses underlying this project? We are looking for input on the following questions:
+### Discuss the premises and hypotheses underlying this project
+
+We want to hear your thoughts on the following questions: 
 
 - Why do cuttlefish make the "tentacle shot pattern"?
 - How much can we read about the cuttlefish nervous system just by looking at their skin, given the tight coupling between neurons and chromatophores?
 - What is a brain? What is a nervous system? 
 - How do we know when something is intelligent, or at least acting intelligently?
 - How do cuttlefish see?
-
-If you have any other questions you want to talk about, or if you have other ideas for understanding this dataset, [I would love to hear from you!](mailto:danbee@alum.mit.edu)
 
 ## Acknowledgements
 
