@@ -31,6 +31,8 @@ During this time, I learned a lot about arduinos and cameras and how to film sea
 
 Many thanks to Kendra Buresch, Stephen Senft, Alex Schnell, Andrew Carvey, Arthur Petron, Troy McInerney, Kelsey Cramer, Corinne Cramer, Andrea Rummell, George Bell, Alan Kuzirian, Barbara Burbank, Lyda Harris, Dan Calzarette, and Roger T Hanlon for their support and assistance at Woods Hole during this project. Additional thanks to Adam Kampff and the Intelligent Systems lab for enabling and supporting this collaboration.
 
+{% include video provider="youtube" id="TGo0AM7calI" %}
+
 ## Want to learn more?
 
 Visit [my online open lab notebook](http://www.danbeekim.org/open-lab-notebook/) to see [my on-going documentation of the Cuttle Shuttle project](http://www.danbeekim.org/open-lab-notebook/cuttlefish-hunting-behavior/). 
